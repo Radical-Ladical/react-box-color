@@ -7,8 +7,8 @@ export default class app extends Component {
 
   render() {
     return (
-      <div onClick="Change('red','color');"  id="red">
-  
+      <div onClick="Change('red','#FOF');"  id="red">
+        wow
       </div>
     )
   }
